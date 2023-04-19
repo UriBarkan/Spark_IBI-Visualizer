@@ -44,6 +44,15 @@ Here is the structure of the `Security Classes.xlsx` file:
 ## Example files
 Exmaple files with dummy data can be found in the "Example files" folder.
 
+## Running on Streamlit Community cloud
+You can run the app on a webserver here:
+https://uribarkan-spark-ibi-visualizer-dashboard-8j50mk.streamlit.app/
+
+As you will need to upload your files to the server, please read the service's privacy & security notes here:
+https://docs.streamlit.io/streamlit-community-cloud/trust-and-security
+
+Use at your own discretion.
+
 ## Contributing
 
 If you find a bug or have a suggestion for improvement, please submit an issue or a pull request.
