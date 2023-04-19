@@ -50,7 +50,6 @@
 import pandas as pd
 import streamlit as st
 st.set_page_config(layout="wide")
-import streamlit.components.v1 as stc
 import plotly.express as px
 
 # Creating function to read data
